@@ -8,3 +8,8 @@
 2. Add the channel id you want to bump and your Discord token in config.json
 
 3. Run. It automatically sends "!d bump" to your chosen channel every 2 hours and 15 seconds.
+
+
+# To-do
+
+- Nothing. Suggest features in the Issues section.
